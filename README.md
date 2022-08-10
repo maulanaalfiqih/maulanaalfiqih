@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+My name is *Maulana Alfiqih*  
+I am currently studying Information System at Sriwijaya University  
+I want to be *web developer*
 <!--
 **maulanaalfiqih/maulanaalfiqih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
