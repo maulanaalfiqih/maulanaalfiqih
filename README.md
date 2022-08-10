@@ -2,7 +2,14 @@
 
 My name is *Maulana Alfiqih*  
 I am currently studying Information System at Sriwijaya University  
-I want to be *web developer*
+I want to be *web developer*  
+
+<p align="left">
+<a href="https://github.com/maulanaalfiqih">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=maulanaalfiqih&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=maulanaalfiqih&layout=compact&langs_count=8&theme=dracula"/>
+</a>
+</p>
 <!--
 **maulanaalfiqih/maulanaalfiqih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
